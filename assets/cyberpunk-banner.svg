@@ -1,0 +1,44 @@
+<svg width="900" height="90" viewBox="0 0 900 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="div-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f3ff" stop-opacity="0" />
+      <stop offset="30%" stop-color="#00f3ff" stop-opacity="0.8" />
+      <stop offset="70%" stop-color="#ff0055" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#ff0055" stop-opacity="0" />
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;family=JetBrains+Mono:wght@500;700&amp;display=swap');
+      .term-text {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 12px;
+        fill: #94a3b8;
+        letter-spacing: 1px;
+      }
+      .cyber-accent {
+        font-family: 'Orbitron', monospace;
+        font-size: 13px;
+        font-weight: 700;
+        fill: #00f3ff;
+      }
+    </style>
+  </defs>
+
+  <rect width="900" height="90" fill="#060913" rx="8" stroke="#131b36" />
+  
+  <!-- Circuit Dividers -->
+  <line x1="40" y1="45" x2="860" y2="45" stroke="url(#div-grad)" stroke-width="2" />
+  
+  <!-- Central Diamond Node -->
+  <g transform="translate(450, 45)">
+    <polygon points="0,-10 10,0 0,10 -10,0" fill="#ff0055" />
+    <circle cx="0" cy="0" r="3" fill="#00f3ff" />
+  </g>
+
+  <!-- Left Telemetry -->
+  <text x="50" y="32" class="cyber-accent">RIZKI // FULLSTACK WEB MATRIX</text>
+  <text x="50" y="68" class="term-text">LOC: INDONESIA [UTC+7] · DEV_ID: #8099 · STATUS: AVAILABLE</text>
+
+  <!-- Right Telemetry -->
+  <text x="680" y="32" class="term-text" text-anchor="start">SYSTEM_LOAD: NORMAL</text>
+  <text x="680" y="68" class="cyber-accent" fill="#ff0055" text-anchor="start">DISCUSSIONS // OPEN</text>
+</svg>
