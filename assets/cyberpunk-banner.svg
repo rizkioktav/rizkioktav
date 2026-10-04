@@ -1,44 +1,44 @@
-<svg width="900" height="90" viewBox="0 0 900 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="920" height="90" viewBox="0 0 920 90" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="div-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00f3ff" stop-opacity="0" />
-      <stop offset="30%" stop-color="#00f3ff" stop-opacity="0.8" />
-      <stop offset="70%" stop-color="#ff0055" stop-opacity="0.8" />
+      <stop offset="25%" stop-color="#00f3ff" stop-opacity="0.85" />
+      <stop offset="75%" stop-color="#ff0055" stop-opacity="0.85" />
       <stop offset="100%" stop-color="#ff0055" stop-opacity="0" />
     </linearGradient>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;family=JetBrains+Mono:wght@500;700&amp;display=swap');
       .term-text {
-        font-family: 'JetBrains Mono', monospace;
-        font-size: 12px;
+        font-family: 'JetBrains Mono', 'Segoe UI Mono', monospace;
+        font-size: 11px;
         fill: #94a3b8;
-        letter-spacing: 1px;
+        letter-spacing: 0.8px;
       }
       .cyber-accent {
-        font-family: 'Orbitron', monospace;
-        font-size: 13px;
+        font-family: 'Orbitron', 'Segoe UI', system-ui, sans-serif;
+        font-size: 12px;
         font-weight: 700;
         fill: #00f3ff;
+        letter-spacing: 1px;
       }
     </style>
   </defs>
 
-  <rect width="900" height="90" fill="#060913" rx="8" stroke="#131b36" />
+  <rect x="2" y="2" width="916" height="86" fill="#060914" rx="10" stroke="#16223d" stroke-width="1.2" />
   
-  <!-- Circuit Dividers -->
-  <line x1="40" y1="45" x2="860" y2="45" stroke="url(#div-grad)" stroke-width="2" />
+  <!-- Circuit Dividers with glowing central diamond -->
+  <line x1="45" y1="45" x2="875" y2="45" stroke="url(#div-grad)" stroke-width="1.8" />
   
-  <!-- Central Diamond Node -->
-  <g transform="translate(450, 45)">
-    <polygon points="0,-10 10,0 0,10 -10,0" fill="#ff0055" />
+  <g transform="translate(460, 45)">
+    <polygon points="0,-9 9,0 0,9 -9,0" fill="#ff0055" />
     <circle cx="0" cy="0" r="3" fill="#00f3ff" />
   </g>
 
-  <!-- Left Telemetry -->
-  <text x="50" y="32" class="cyber-accent">RIZKI // FULLSTACK WEB MATRIX</text>
-  <text x="50" y="68" class="term-text">LOC: INDONESIA [UTC+7] · DEV_ID: #8099 · STATUS: AVAILABLE</text>
+  <!-- Left Telemetry (Anchored cleanly at left) -->
+  <text x="45" y="27" class="cyber-accent" dominant-baseline="central">RIZKI // FULLSTACK WEB MATRIX</text>
+  <text x="45" y="63" class="term-text" dominant-baseline="central">LOC: INDONESIA [UTC+7] · DEV_ID: #8099 · STATUS: AVAILABLE</text>
 
-  <!-- Right Telemetry -->
-  <text x="680" y="32" class="term-text" text-anchor="start">SYSTEM_LOAD: NORMAL</text>
-  <text x="680" y="68" class="cyber-accent" fill="#ff0055" text-anchor="start">DISCUSSIONS // OPEN</text>
+  <!-- Right Telemetry (Anchored safely at right edge with text-anchor='end') -->
+  <text x="875" y="27" class="term-text" text-anchor="end" dominant-baseline="central">SYSTEM_LOAD: NORMAL · SASS &amp; TAILWIND READY</text>
+  <text x="875" y="63" class="cyber-accent" fill="#ff0055" text-anchor="end" dominant-baseline="central">DISCUSSIONS // OPEN FOR OPPORTUNITIES</text>
 </svg>

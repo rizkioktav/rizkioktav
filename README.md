@@ -26,14 +26,14 @@
 Name        : Rizki Oktavianus
 Role        : Fullstack Web Developer (3+ Years Experience)
 Passion     : PHP Enthusiast & Modern Fullstack Architect
-Frontend    : React.js, Vue.js, Angular, TypeScript, Tailwind CSS
+Frontend    : React.js, Vue.js, Angular, TypeScript, Sass/SCSS, Tailwind CSS
 Backend     : PHP, Laravel, Node.js, Express.js, RESTful APIs
 Database    : MySQL, PostgreSQL, Microsoft SQL Server
 Gateway/Dev : Kong API Gateway, Postman, Docker, Git
 Status      : Open to work & discussion for relevant roles
 ```
 
-> **Halo! Saya Rizki Oktavianus**, seorang **Fullstack Web Developer** dengan pengalaman kerja **3+ tahun** di industri web development. Saya memiliki passion mendalam pada ekosistem **PHP & Laravel**, serta berpengalaman menggabungkan backend yang kokoh (**PHP / Laravel / Node.js**) dengan antarmuka modern yang reaktif (**React, Vue, Angular**), database relasional skala besar (**MySQL, PostgreSQL, MS SQL**), dan integrasi API (**Kong Gateway & Postman**).
+> **Halo! Saya Rizki Oktavianus**, seorang **Fullstack Web Developer** dengan pengalaman kerja **3+ tahun** di industri web development. Saya memiliki passion mendalam pada ekosistem **PHP & Laravel**, serta berpengalaman menggabungkan backend yang kokoh (**PHP / Laravel / Node.js**) dengan antarmuka modern yang reaktif (**React, Vue, Angular**), styling modern (**Sass/SCSS & Tailwind CSS**), database relasional skala besar (**MySQL, PostgreSQL, MS SQL**), dan integrasi API (**Kong Gateway & Postman**).
 > 
 > 💬 *Tertarik berkolaborasi atau memiliki lowongan yang relevan? Saya sangat terbuka untuk berdiskusi lebih lanjut!*
 
@@ -44,7 +44,7 @@ Status      : Open to work & discussion for relevant roles
 <table align="center" width="100%">
   <tr>
     <td align="left" width="50%" valign="top">
-      <strong>🚀 Frontend & Frameworks</strong>
+      <strong>🚀 Frontend & Styling</strong>
       <br/><br/>
       <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00f3ff&borderColor=00f3ff" alt="React" />
       <img src="https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
@@ -52,6 +52,8 @@ Status      : Open to work & discussion for relevant roles
       <br/>
       <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
       <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ffe600" alt="JavaScript" />
+      <br/>
+      <img src="https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind" />
     </td>
     <td align="left" width="50%" valign="top">
