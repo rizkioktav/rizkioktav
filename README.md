@@ -1,25 +1,29 @@
-<!-- Bagian Header Banner -> Menggunakan GIF Aesthetic untuk Efek Dinamis -->
+<!-- Bagian Header -> Menggunakan GIF Animasi Bergaya 3D/Futuristik -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mlh/mlh/master/static/media/banner.png" width="100%" /> 
+  <img src="https://raw.githubusercontent.com/KuBoiA/KuBoiA/main/assets/wave.gif" width="100%" /> 
 </p>
 
-<!-- Judul Utama dengan Teks Animasi CSS -->
+<!-- Judul Utama dengan Efek Typing SVG & Ikon Animasi -->
 <h1 align="center">
-  Hi, I'm <ins>Nama Kamu</ins> 👋
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&lines=Full-Stack+Developer;Problem+Solver;Coffee+Enthusiast" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm <ins>Nama Kamu</ins>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/WavingHand.gif" width="30px">
 </h1>
 
-<!-- Subtitle & Social Badges -> Menggunakan Icon Modern -->
 <p align="center">
-  <i>Membangun solusi web modern dengan performa tinggi dan pengalaman pengguna yang intuitif.</i><br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=500&size=35&pause=1000&color=00D1B2&center=true&vCenter=true&lines=AI+EXPLORER;SOFTWARE+ENGINEER;DATA+ENTHUSIAST" alt="Typing SVG" />
+</p>
+
+<!-- Subtitle & Social Icons -> Menggunakan Badge Interaktif -->
+<p align="center">
+  <i>"Membangun jembatan antara data dan pengalaman pengguna yang intuitif dengan sentuhan estetika modern."</i><br><br>
   <a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="https://portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://twitter.com/USERNAME_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;
   <a href="mailto:EMAIL_KAMU" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -27,95 +31,83 @@
 
 ---
 
-<!-- Bagian Statistik & Aktivitas -> Terlihat Lebih Ramping -->
-<h2 align="center">📊 Aktivitas GitHub</h2>
+<!-- Bagian Statistik -> Menggunakan Kartu Bergaya 3D/Glassmorphism -->
+<h2 align="center">🚀 Orbit Aktivitas GitHub</h2>
 
 <p align="center">
-  <!-- Animasi Views Count -> Lebih Modern & Flat -->
-  <img src="https://profile-counter.glitch.me/USERNAME_GITHUB_KAMU/count.svg" alt="GitHub Profile Views">
-  <br>
-  <!-- GitHub Streak Stats -> Tanpa Border, Tema Dinamis -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=radical&hide_border=true&date_format=M j, Y" />
+  <!-- GitHub Streak Stats -> Tema Dracoola (Mirip Nuansa Neon 3D) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=dracula&hide_border=true&date_format=M j, Y" />
 </p>
 
 <p align="center">
-  <!-- Top Languages Card -> Layout Compact & Aesthetic -->
-  <img height="150px" src="https://github-readme-stats.vercel.ai/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=radical&hide_border=true&langs_count=5" />&nbsp;
+  <!-- Top Languages -> Layout Compact, Tema Gelap -->
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=dracula&hide_border=true&langs_count=5" />&nbsp;
   
-  <!-- GitHub Stats Card -> Full Icons -->
-  <img height="150px" src="https://github-readme-stats.vercel.ai/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=radical&hide_border=true" />
+  <!-- GitHub Stats Card -> Tema Gelap, Menampilkan Total Commits, PR, dll. -->
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+</p>
+
+<!-- Profile Views Counter -> Desain Modern dengan Efek 3D/Shadow -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&color=brightgreen&style=flat-square" alt="GitHub Profile Views">
 </p>
 
 <br>
 
 ---
 
-<!-- Bagian Tech Stack -> Menggunakan SVG Icons dari Simple Icons -->
-<h2 align="center">🛠️ Keahlian Utama</h2>
+<!-- Bagian Tech Stack -> Menggunakan Ikon SVG "Flat" Profesional -->
+<h2 align="center">🛠️ Kotak Perkakas Futuristik</h2>
 
 <div align="center">
-  <h3>🌐 Pengembangan Web</h3>
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br><br>
-  
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-%2335495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <h3>🤖 Artificial Intelligence & Data</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   
   <br><br>
-
-  <h3>📦 Database & DevOps</h3>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+  
+  <h3>☁️ Cloud & DevOps</h3>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
-<br>
-
----
-
-<!-- Bagian Timeline -> Menggunakan HTML Detail/Summary untuk Efek Interaktif -->
-<h2 align="center">🚀 Perjalanan Karir</h2>
-
-<div align="center">
-  <details open>
-    <summary><b>🗓️ 2023 - Sekarang: Senior Developer</b></summary>
-    <ul>
-      <li>Memimpin tim pengembangan untuk proyek skala enterprise.</li>
-      <li>Meningkatkan efisiensi deployment sebesar 40%.</li>
-      <li>Fokus pada arsitektur dan keamanan sistem.</li>
-    </ul>
-  </details>
-  
-  <br>
-
-  <details>
-    <summary><b>🗓️ 2021 - 2023: Junior Developer</b></summary>
-    <ul>
-      <li>Membangun fitur baru untuk aplikasi mobile menggunakan React Native.</li>
-      <li>Berhasil menyelesaikan migrasi database legacy.</li>
-    </ul>
-  </details>
-</div>
-
-<br>
-
----
-
-<!-- Footer -> Sentuhan Akhir yang Profesional -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&color=F8F9FA&center=true&vCenter=true&lines=Let's+build+something+amazing+together!" />
   <br><br>
-  <a href="https://github.com/rahmat-agung-junaedi/github-profile-readme-generator">
-    <img src="https://img.shields.io/badge/Readme_Generator-grey?style=flat&logo=github" alt="Readme Generator">
+
+  <h3>💻 Web & Mobile</h3>
+  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+
+</div>
+
+<br>
+
+---
+
+<!-- Bagian Showcase -> Menggunakan Kartu Link Interaktif -->
+<h2 align="center">🏆 Showcase Proyek Utama</h2>
+
+<p align="center">
+  <a href="LINK_REPOSITORI_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME_GITHUB_KAMU&repo=NAMA_REPO_1&theme=dracula&hide_border=true" width="48%" />
+  </a>&nbsp;
+  <a href="LINK_REPOSITORI_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME_GITHUB_KAMU&repo=NAMA_REPO_2&theme=dracula&hide_border=true" width="48%" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=USERNAME_GITHUB_KAMU.visited" />
+</p>
+
+<br>
+
+---
+
+<!-- Footer -> Sentuhan Akhir yang Interaktif -->
+<p align="center">
+  <i>Let's build something innovative!</i>
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=18&color=FF4500&center=true&vCenter=true&lines=Thank+You+For+Visiting!" />
 </p>
