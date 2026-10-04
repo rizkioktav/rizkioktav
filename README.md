@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=RIZKI%20OKTAVIANUS&fontSize=62&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=FULL-STACK%20WEB%20DEVELOPER%20%2F%2F%20PHP%20LOVER&descAlignY=62&descSize=16&stroke=FF00E5&strokeWidth=2" width="100%" />
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/rizkioktav">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=820&height=60&lines=%3E+INITIALIZING+PROFILE...;%3E+Full-Stack+Web+Developer+%7C+3%2B+Years;%3E+PHP+Lover+%7C+Laravel+%7C+React+%7C+Node.js;%3E+Code.+Ship.+Iterate.+Repeat." alt="Typing SVG" />
 </a>
 
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0d0221" />
 <img src="https://img.shields.io/badge/EXPERIENCE-3%2B%20YEARS-FF00E5?style=for-the-badge&labelColor=0d0221" />
 <img src="https://img.shields.io/badge/LOCATION-INDONESIA-7B2FF7?style=for-the-badge&labelColor=0d0221" />
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=VISITORS&color=ff00e5&style=for-the-badge&labelColor=0d0221" />
+<img src="https://komarev.com/ghpvc/?username=rizkioktav&label=VISITORS&color=ff00e5&style=for-the-badge&labelColor=0d0221" />
 
 </div>
 
@@ -76,12 +76,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00F0FF&icon_color=FF00E5&text_color=E0E0E0&ring_color=00F0FF&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00F0FF&text_color=E0E0E0" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rizkioktav&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00F0FF&icon_color=FF00E5&text_color=E0E0E0&ring_color=00F0FF&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkioktav&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00F0FF&text_color=E0E0E0" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=synthwave&hide_border=true&background=0d0221&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF&sideLabels=FF00E5" />
+<img src="https://streak-stats.demolab.com?user=rizkioktav&theme=synthwave&hide_border=true&background=0d0221&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF&sideLabels=FF00E5" />
 
 </div>
 
@@ -98,7 +98,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d0221&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&area_color=7B2FF7&hide_border=true&custom_title=ACTIVITY%20SIGNAL" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkioktav&bg_color=0d0221&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&area_color=7B2FF7&hide_border=true&custom_title=ACTIVITY%20SIGNAL" width="100%" />
 
 </div>
 
@@ -115,7 +115,7 @@
 
 Web system for line planning and capacity calculation, with real-time formulas and printable PDF reports.
 
-<a href="https://github.com/USERNAME/REPO_NAME"><img src="https://img.shields.io/badge/VIEW-REPO-00F0FF?style=flat-square&labelColor=0d0221" /></a>
+<a href="https://github.com/rizkioktav/REPO_NAME"><img src="https://img.shields.io/badge/VIEW-REPO-00F0FF?style=flat-square&labelColor=0d0221" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -125,7 +125,7 @@ Web system for line planning and capacity calculation, with real-time formulas a
 
 Tracking dashboard for machine usage with clean component-based styling and sync to existing data sources.
 
-<a href="https://github.com/USERNAME/REPO_NAME"><img src="https://img.shields.io/badge/VIEW-REPO-FF00E5?style=flat-square&labelColor=0d0221" /></a>
+<a href="https://github.com/rizkioktav/REPO_NAME"><img src="https://img.shields.io/badge/VIEW-REPO-FF00E5?style=flat-square&labelColor=0d0221" /></a>
 
 </td>
 </tr>
@@ -137,7 +137,7 @@ Tracking dashboard for machine usage with clean component-based styling and sync
 
 Role-based management system with approval workflows and bulk data import.
 
-<a href="https://github.com/USERNAME/REPO_NAME"><img src="https://img.shields.io/badge/VIEW-REPO-7B2FF7?style=flat-square&labelColor=0d0221" /></a>
+<a href="https://github.com/rizkioktav/REPO_NAME"><img src="https://img.shields.io/badge/VIEW-REPO-7B2FF7?style=flat-square&labelColor=0d0221" /></a>
 
 </td>
 </tr>
@@ -152,7 +152,7 @@ Role-based management system with approval workflows and bulk data import.
 <a href="https://id.linkedin.com/in/rizki-oktavianus"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rizkioktav70@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF00E5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://instagram.com/rzkioktv_"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00F0FF" /></a>
+<a href="https://github.com/rizkioktav"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00F0FF" /></a>
 
 <br/><br/>
 
