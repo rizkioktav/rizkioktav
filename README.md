@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=RIZKI&fontSize=96&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20SYSTEM%20BUILDER&descAlignY=62&descSize=18&stroke=FF00E5&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=RIZKI%20OKTAVIANUS&fontSize=62&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=FULL-STACK%20WEB%20DEVELOPER%20%2F%2F%20PHP%20LOVER&descAlignY=62&descSize=16&stroke=FF00E5&strokeWidth=2" width="100%" />
 
 <a href="https://github.com/USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=760&height=60&lines=%3E+INITIALIZING+PROFILE...;%3E+Laravel+%7C+SQL+Server+%7C+Modern+Web;%3E+Building+Systems+That+Run+Production+Lines;%3E+Code.+Ship.+Iterate.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=820&height=60&lines=%3E+INITIALIZING+PROFILE...;%3E+Full-Stack+Web+Developer+%7C+3%2B+Years;%3E+PHP+Lover+%7C+Laravel+%7C+React+%7C+Node.js;%3E+Code.+Ship.+Iterate.+Repeat." alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0d0221" />
-<img src="https://img.shields.io/badge/MODE-BUILDING-FF00E5?style=for-the-badge&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/EXPERIENCE-3%2B%20YEARS-FF00E5?style=for-the-badge&labelColor=0d0221" />
 <img src="https://img.shields.io/badge/LOCATION-INDONESIA-7B2FF7?style=for-the-badge&labelColor=0d0221" />
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=VISITORS&color=ff00e5&style=for-the-badge&labelColor=0d0221" />
 
@@ -22,19 +22,21 @@
 ## `> whoami`
 
 ```ansi
-[1;36m┌──────────────────────────────────────────────────────────┐[0m
-[1;36m│[0m  [1;35mNAME[0m      : Rizki                                          [1;36m│[0m
-[1;36m│[0m  [1;35mROLE[0m      : Full-Stack Developer                           [1;36m│[0m
-[1;36m│[0m  [1;35mFOCUS[0m     : Laravel, Industrial and Internal Web Systems   [1;36m│[0m
-[1;36m│[0m  [1;35mSTACK[0m     : PHP, SQL Server, JavaScript, SCSS              [1;36m│[0m
-[1;36m│[0m  [1;35mMISSION[0m   : Turn messy workflows into clean software       [1;36m│[0m
-[1;36m└──────────────────────────────────────────────────────────┘[0m
+[1;36m┌──────────────────────────────────────────────────────────[0m
+[1;36m│[0m  [1;35mNAME[0m     : Rizki Oktavianus
+[1;36m│[0m  [1;35mROLE[0m     : Full-Stack Web Developer
+[1;36m│[0m  [1;35mFOCUS[0m    : Backend and Frontend Web Systems
+[1;36m│[0m  [1;35mEXP[0m      : 3+ years in web development
+[1;36m│[0m  [1;35mSTACK[0m    : PHP, Laravel, React, Angular, Vue, Node.js
+[1;36m│[0m  [1;35mDATA[0m     : MySQL, SQL Server, PostgreSQL
+[1;36m│[0m  [1;35mMISSION[0m  : Turn messy workflows into clean software
+[1;36m└──────────────────────────────────────────────────────────[0m
 ```
 
-- ⚡ Building web applications for manufacturing and production environments
-- 🧠 Deep experience in Laravel with SQL Server, admin dashboards, and component-based SCSS
-- 🎯 Focused on performance, clean architecture, and interfaces people actually enjoy using
-- 📡 Currently exploring modern frontend tooling and better developer workflows
+- ⚡ Full-stack web developer with 3+ years of experience building real-world applications
+- 🐘 PHP lover, with Laravel as my main backend weapon
+- 🔌 Comfortable designing, testing, and managing APIs with Postman and Kong
+- 🎯 Focused on performance, clean architecture, and interfaces people enjoy using
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -42,18 +44,29 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,sass,html,css,vite,git,github,linux,mysql&perline=6&theme=dark" />
+### 🖥️ Frameworks and Languages
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,react,angular,vue,nodejs,html,css,sass&perline=10&theme=dark" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&perline=10&theme=dark" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+### 🔧 API and Tools
+
+<img src="https://skillicons.dev/icons?i=postman,git,github,linux&perline=10&theme=dark" />
+<img src="https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
 
@@ -117,7 +130,7 @@ Tracking dashboard for machine usage with clean component-based styling and sync
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🧩 Workforce Competency Platform
 `Laravel` `Multi-Role Auth` `Excel Import`
@@ -125,16 +138,6 @@ Tracking dashboard for machine usage with clean component-based styling and sync
 Role-based management system with approval workflows and bulk data import.
 
 <a href="https://github.com/USERNAME/REPO_NAME"><img src="https://img.shields.io/badge/VIEW-REPO-7B2FF7?style=flat-square&labelColor=0d0221" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Side Project
-`Your Stack Here`
-
-Short description of an independent project you want to highlight.
-
-<a href="https://github.com/USERNAME/REPO_NAME"><img src="https://img.shields.io/badge/VIEW-REPO-00F0FF?style=flat-square&labelColor=0d0221" /></a>
 
 </td>
 </tr>
@@ -146,9 +149,9 @@ Short description of an independent project you want to highlight.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:EMAIL@DOMAIN.COM"><img src="https://img.shields.io/badge/EMAIL-FF00E5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://id.linkedin.com/in/rizki-oktavianus"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rizkioktav70@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF00E5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/rzkioktv_"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00F0FF" /></a>
 
 <br/><br/>
